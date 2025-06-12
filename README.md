@@ -28,5 +28,18 @@ To get this project running locally:
 
 ```bash
 git clone https:https://github.com/Rajiya-sultana/solar-system
-```bash
+
+2.Install dependencies:
+
+npm install
+Start the dev server:
+
+bash
+Copy
+Edit
+npm run dev
+Then just open your browser and go to http://localhost:5173.
+
+Make sure you have Node.js and npm installed on your system.
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/ad664fa4-09b6-445b-92b4-995a17da29c3" />
 
