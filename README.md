@@ -23,10 +23,8 @@ This is a 3D Solar System simulation I built using **Three.js**. It’s fully in
 ## 🛠️ How to Run
 
 To get this project running locally:
-
 1. Clone the repository:
 
-```bash
 git clone https:https://github.com/Rajiya-sultana/solar-system
 
 2.Install dependencies:
@@ -41,5 +39,7 @@ npm run dev
 Then just open your browser and go to http://localhost:5173.
 
 Make sure you have Node.js and npm installed on your system.
-<img width="956" alt="image" src="https://github.com/user-attachments/assets/ad664fa4-09b6-445b-92b4-995a17da29c3" />
+📸 Preview
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/1ae30e0d-fbdf-4d57-b978-467dd55a6879" />
+
 
