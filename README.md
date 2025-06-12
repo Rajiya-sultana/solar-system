@@ -28,8 +28,5 @@ To get this project running locally:
 
 ```bash
 git clone https:https://github.com/Rajiya-sultana/solar-system
-Install dependencies:
-npm install
-Start the dev server:
-npm run dev
+```bash
 
