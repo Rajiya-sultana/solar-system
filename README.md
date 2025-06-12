@@ -39,6 +39,7 @@ npm run dev
 Then just open your browser and go to http://localhost:5173.
 
 Make sure you have Node.js and npm installed on your system.
+
 📸 Preview
 <img width="956" alt="image" src="https://github.com/user-attachments/assets/1ae30e0d-fbdf-4d57-b978-467dd55a6879" />
 
