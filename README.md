@@ -43,4 +43,7 @@ Make sure you have Node.js and npm installed on your system.
 📸 Preview
 <img width="956" alt="image" src="https://github.com/user-attachments/assets/1ae30e0d-fbdf-4d57-b978-467dd55a6879" />
 
+Thanks for checking it out!
+Feel free to fork this or give it a ⭐ if you like it.
 
+— Rajiya
